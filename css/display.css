@@ -1,0 +1,32 @@
+body{
+    /*display:flex;*/
+}
+.boundary {
+    width: max-content;
+    padding: 1%;
+}
+/*button {
+    background-color: #4CAF50; 
+    color: white;
+    padding: 2% 2%;
+    text-align: center;
+    border: 1px solid red;
+}*/
+
+.display {
+    height: 40px;
+    background-color: #77c5ae;
+    border: 6px solid olivedrab;
+    text-align: center;
+    color: red;
+}
+.button-div {
+    width: 100%;
+}
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 2% 2%;
+    text-align: center;
+    width: 33%;
+}
