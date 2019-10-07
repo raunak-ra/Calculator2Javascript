@@ -66,9 +66,4 @@ var InitCalculator = function Calculator() {
     return PrepareUI();
 }
 
-var x = new InitCalculator();
-var y = new InitCalculator();
-var z = new InitCalculator();
-var x = new InitCalculator();
-var y = new InitCalculator();
-var z = new InitCalculator();
+
